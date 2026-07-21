@@ -1,0 +1,11 @@
+{
+  "app": "Tokat Öğretmenevi Ambar Defteri",
+  "version": "1.1.2",
+  "releasedAt": "2026-07-21",
+  "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.1.2",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.1.2/AmbarDefteriKurulum.exe",
+  "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
+  "installerFile": "AmbarDefteriKurulum.exe",
+  "sha256": "C5FB84CD96E86DB1BA9BDA534722EA21E28A633BED8ABB98B6E1BF482F8D660A",
+  "notes": "Güncelleme altyapısı ücretsiz GitHub Releases kanalına taşındı."
+}
