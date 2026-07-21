@@ -1,11 +1,11 @@
 {
   "app": "Tokat Öğretmenevi Ambar Defteri",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "releasedAt": "2026-07-21",
-  "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.1.7",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.1.7/AmbarDefteriKurulum.exe",
+  "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.1.8",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.1.8/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "9EDA4A266129408213FB11D7E78BE98ABBFC35A55B29001A0A75A16241835036",
+  "sha256": "0A07E4F4D4CF34006F3108C8A2478AA2EBA3F0A3D07E578AAD3FBA24782FED08",
   "notes": "Güncelleme kontrolünde sürüm bilgisinin okunamamasına neden olan Git commit eki düzeltildi."
 }
