@@ -6,6 +6,7 @@
   "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.4/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "647ECFF6BDDAA06CB5DAE64A27598595830813A3FF9C56A27EF4865D687DE48F",
+  "sha256": "FF147705A57AB9836274A12794DED199945893D657C32C91AE1C07819D5A89FF",
   "notes": "Raporlar sekmesine 'Önceki dönemden devreden' bakiye özelliği ve hatalı fişleri sistemden kalıcı olarak silme özelliği (Sadece Yöneticiler) eklendi."
 }
+
