@@ -1,18 +1,11 @@
 {
   "app": "Tokat Öğretmenevi Ambar Defteri",
   "version": "1.2.5",
-  "releasedAt": "2026-08-08",
-  "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.4",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.4/AmbarDefteriKurulum.exe",
+  "releasedAt": "2026-08-14",
+  "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.5",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.5/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
   "sha256": "7350EC46B10993E93A2EFA68BB0D31FFFF58A1C4F4D4D1D339369A65A5126FCF",
-  "notes": "Raporlar sekmesine 'Önceki dönemden devreden' bakiye özelliği ve hatalı fişleri sistemden kalıcı olarak silme özelliği (Sadece Yöneticiler) eklendi."
+  "notes": "Stok hesaplamalarındaki ondalık sayı hataları giderildi. Sıfır stokları gizleme seçeneği eklendi."
 }
-
-
-
-
-
-
-
