@@ -1,14 +1,15 @@
 ﻿{
   "app": "Tokat Ã–ÄŸretmenevi Ambar Defteri",
-  "version": "1.2.8",
+  "version": "1.2.9",
   "releasedAt": "2026-08-14",
   "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.5",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.8/AmbarDefteriKurulum.exe",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.9/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "711B4A117B2CA4B1D24591937D1FAFD336183B9190F460749DBD63AAC479CBF0",
-  "notes": "Arama deneyimi iyileştirildi, yazarak filtreleme geliştirildi."
+  "sha256": "2CF0E2E72CF2E90734DDB8F7A112162BE21E56CFB98B87CA37A1514B6D424919",
+  "notes": "Stok (Malzemeler) bölümüne tablo içi canlı arama (filtreleme) eklendi."
 }
+
 
 
 
