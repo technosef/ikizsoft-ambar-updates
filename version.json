@@ -1,14 +1,15 @@
 ﻿{
   "app": "Tokat Ã–ÄŸretmenevi Ambar Defteri",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "releasedAt": "2026-08-14",
   "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.5",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.6/AmbarDefteriKurulum.exe",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.2.7/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "FD3F406DEE7BCDE78DED2C54A4E6506BAC28D0077E17A33B56715DDD098A4ACC",
-  "notes": "Stok hesaplamalarÄ±ndaki ondalÄ±k sayÄ± hatalarÄ± giderildi. SÄ±fÄ±r stoklarÄ± gizleme seÃ§eneÄŸi eklendi."
+  "sha256": "86983C189DC5E469F43E4C82CDD91D5B233F29ABCC77A5B73ACE4F5CE8F78D60",
+  "notes": "Tüm malzeme seçimi kutularında yazarak arama özelliği eklendi. Mükerrer açılmış olan aynı isimli stokları birleştirme özelliği eklendi."
 }
+
 
 
 
