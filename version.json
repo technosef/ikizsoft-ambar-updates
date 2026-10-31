@@ -1,14 +1,15 @@
 ﻿{
   "app": "Tokat Ã–ÄŸretmenevi Ambar Defteri",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "releasedAt": "2026-08-14",
   "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.5",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.3.0/AmbarDefteriKurulum.exe",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.4.0/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "13DDA35D25F70BB3B1878E367A9CEB5DCCC54084FEFE402BB3A84208963A574C",
-  "notes": "Modern ve görsel bir kurulum sihirbazı (Installer) arayüzü eklendi."
+  "sha256": "6C7E0DC69C3960ABCE5AF14919853D34DF446294385517D7A01708B960F396BD",
+  "notes": "15 günlük demo ve lisans aktivasyon sistemi eklendi."
 }
+
 
 
 
