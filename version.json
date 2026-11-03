@@ -1,14 +1,15 @@
 ﻿{
-  "app": "Tokat Ã–ÄŸretmenevi Ambar Defteri",
-  "version": "1.4.2",
+  "app": "Ä°kizsoft Ambar UygulamasÄ±",
+  "version": "1.4.3",
   "releasedAt": "2026-08-14",
   "pageUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/tag/v1.2.5",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.4.2/AmbarDefteriKurulum.exe",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-ambar-updates/releases/download/v1.4.3/AmbarDefteriKurulum.exe",
   "manualUrl": "https://ikizsoft.com/Ambar/docs/Ambar-Kullanim-Kilavuzu.pdf",
   "installerFile": "AmbarDefteriKurulum.exe",
-  "sha256": "54A33355E8C77A9ED3347A869A6FD0E6DD6FF7BFED4A60DA460C011AF1A8D486",
-  "notes": "Lisans aktivasyon arayuzu tamamen yenilendi, genislik ve kaydirma duzeltildi, guncelle ve panodan yapistir butonlari dogrudan erisilebilir hale getirildi."
+  "sha256": "D9BB439B1CF4BE475EC05FF58476ECF0437AF471AF83BCBD9ADC80EAB9B0E10F",
+  "notes": "Uygulama standart adi Ikizsoft Ambar Uygulamasi olarak guncellendi."
 }
+
 
 
 
